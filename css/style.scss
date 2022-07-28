@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap");
+
+//Переменные
+@import "_var.scss";
+
+// Примеси Миксины
+@import "_mixins.scss";
+
+// Базовые стили
+@import "_main.scss";
+
+// Шапка
+@import "_blocks/header";
+
+// Heading
+@import "_blocks/preview";
+
+//Discount
+@import "_blocks/discount";
+
+// Футер
+@import "_blocks/footer";
